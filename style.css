@@ -1,0 +1,13 @@
+.searchline, .button{
+	border-radius: 20px;
+	border:  0 solid LightGrey;
+	background-color: #DCDCDC;
+	display: block;
+	margin: 10px auto;
+	outline: 0;
+}
+.bassearch{
+	 margin: 0 auto;
+	 width: 200px;
+	 padding-top: 25%;
+}
